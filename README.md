@@ -1,4 +1,3 @@
-```markdown
 # 📚 Feed de Postagens do Instagram - React/Next.js + Tailwind CSS
 
 ## 📝 Descrição da Atividade
